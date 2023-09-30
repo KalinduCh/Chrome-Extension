@@ -1,6 +1,6 @@
 # Currency Converter Chrome Extension
 
-![Currency Converter Icon](Images/Screenshot%202023-09-30%20084010.png)
+![Currency Converter Icon](Screenshot%202023-09-30%20084010.png)
 
 A simple Chrome extension that allows you to convert currency in your browser.
 
